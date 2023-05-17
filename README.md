@@ -1,6 +1,6 @@
 
-Hi, I am Konstantin and I really need to put some time into this page!
-
+Hi, I am Konstantin, thank you for checking out my profile!
+---
 ### :busts_in_silhouette: Socials
 <div id="socials">
   <a href="https://www.discordapp.com/users/276016987761803265">
@@ -10,6 +10,8 @@ Hi, I am Konstantin and I really need to put some time into this page!
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>  
   </a>
 </div>
+
+---
 
 ### :bulb: Skills and Languages
 <div>
@@ -24,4 +26,9 @@ Hi, I am Konstantin and I really need to put some time into this page!
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-[![kmeixner247's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmeixner247)](https://github.com/kmeixner247/github-readme-stats)
+---
+
+### :part_alternation_mark: Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmeixner247&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![kmeixner247's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmeixner247&show_icons=true&theme=transparent)
