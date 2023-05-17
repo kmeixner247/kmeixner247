@@ -10,11 +10,11 @@ On this page, you will find both personal projects and those done in the 42Wolfs
 
 ### :busts_in_silhouette: Socials
 <div id="socials">
-  <a href="https://www.discordapp.com/users/276016987761803265">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" title="Discord" alt="Discord" width="40" height="40"/>
-  </a>
   <a href="https://www.linkedin.com/in/konstantin-meixner-796744184/">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>  
+  </a>
+  <a href="https://www.discordapp.com/users/276016987761803265">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" title="Discord" alt="Discord" width="40" height="40"/>
   </a>
 </div>
 
