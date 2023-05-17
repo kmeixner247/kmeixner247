@@ -1,6 +1,13 @@
 
 Hi, I am Konstantin, thank you for checking out my profile!
 ---
+
+Passionate about all things code, all things puzzle, all things game.
+
+I am interested in Engine Development, Graphics Programming, Embedded Systems and much more.
+
+On this page, you will find both personal projects and those done in the 42Wolfsburg curriculum.
+
 ### :busts_in_silhouette: Socials
 <div id="socials">
   <a href="https://www.discordapp.com/users/276016987761803265">
